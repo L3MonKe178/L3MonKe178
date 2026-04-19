@@ -49,12 +49,12 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L3MonKe&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L3MonKe&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF" alt="Streak Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=L3MonKe178&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L3MonKe178&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF" alt="Streak Stats" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=L3MonKe&theme=dracula&no-frame=true&row=1&column=4&margin-w=10" alt="Trophy" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=L3MonKe178&theme=dracula&no-frame=true&row=1&column=4&margin-w=10" alt="Trophy" width="90%"/>
 </div>
 
 ---
