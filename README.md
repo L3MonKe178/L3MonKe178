@@ -54,7 +54,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=L3MonKe178&theme=onedark&no-frame=true&row=1&column=4&margin-w=15" alt="Trophy" onerror="this.style.display='none'"/>
+  <a href="https://github.com/L3MonKe178">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3MonKe178&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" width="40%"/>
+  </a>
 </div>
 
 ---
