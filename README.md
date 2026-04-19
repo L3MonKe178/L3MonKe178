@@ -84,8 +84,8 @@
   <a href="mailto:hhcrystal2008@gmail.com">
     <img src="https://img.shields.io/badge/Email-hhcrystal2008@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://discord.com/users/L3MonKe">
-    <img src="https://img.shields.io/badge/Discord-L3MonKe-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://discord.com/users/heyiwei1337">
+    <img src="https://img.shields.io/badge/Discord-heyiwei1337-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://qm.qq.com/q/33735021639">
     <img src="https://img.shields.io/badge/QQ-33735021639-12B7F5?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ"/>
@@ -105,7 +105,7 @@
 
 <div align="center">
   <sub>
-    🛠️ Built with Markdown & ❤️ by <b>柠檬刻</b><br>
+    🛠️ Built with Markdown & ❤️ by <b>L3MonKe</b><br>
     <i>「 Code is poetry, and cheese is art. 🧀 」</i>
   </sub>
 </div>
